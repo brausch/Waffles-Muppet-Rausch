@@ -1,0 +1,40 @@
+a:link{
+  color: #79cdcd;
+}
+
+a:hover {
+  color: #a2cd5a;
+}
+img.wafflesdog {
+  width: 300px;
+  height: auto;
+  border-width: 10px;
+  border-color: #6cb8b8;
+  border-style: solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+h1 {
+  color: #79cdcd;
+  text-align: center;
+  font-size: 50px;
+}
+
+h2 {
+  color: #bce6e6;
+  font-style: italic;
+  text-align: center;
+  font-size: 35px;
+}
+
+p{
+  font-family: sans-serif;
+}
+
+ul {
+  font-size: 20px;
+  line-height: 30px;
+}
